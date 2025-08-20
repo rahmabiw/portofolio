@@ -24,7 +24,7 @@ a {
 
 /* HERO */
 .hero {
-  background-color: #000;
+  background-color: lilac;
   padding: 80px 20px;
 }
 
@@ -82,7 +82,7 @@ a {
 /* SECTION About Me */
 .data-rahma-section {
   padding: 60px 20px;
-  background-color: #1a1a1a;
+  background-color: mint;
 }
 
 .data-rahma-container {
@@ -168,4 +168,5 @@ footer {
 .footerBottom .designer {
   color: skyblue;
   font-weight: bold;
+
 }
